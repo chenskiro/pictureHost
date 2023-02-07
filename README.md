@@ -18,6 +18,10 @@ chenskiro 的个人图床
 
 访问 https://picx.xpoet.cn/ 前往管理页面
 
+## 活动记录
+
+![Alt](https://repobeats.axiom.co/api/embed/8813779d9cc45ac1cbe0e64f2523a6c6f11a6415.svg "Repobeats analytics image")
+
 ## 储存内容
 
 📂image 用于储存杂项
